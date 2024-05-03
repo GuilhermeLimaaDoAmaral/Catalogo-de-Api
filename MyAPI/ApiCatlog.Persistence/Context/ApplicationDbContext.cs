@@ -1,13 +1,7 @@
 ﻿using ApiCatalog.Core.Entities;
-using ApiCatalog.Core.Models;
 using ApiCatalog.Persistence.Mappings;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ApiCatalog.Persistence.Context
 {

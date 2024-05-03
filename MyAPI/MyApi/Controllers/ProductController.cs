@@ -1,11 +1,6 @@
-﻿using ApiCatalog.Core.DTOs;
-using ApiCatalog.Core.DTOs.Request;
+﻿using ApiCatalog.Core.DTOs.Request;
 using ApiCatalog.Core.DTOs.Response;
 using ApiCatalog.Core.Entities;
-using ApiCatalog.Core.Exceptions;
-using ApiCatalog.Core.Interfaces.Repository;
-using ApiCatalog.Core.Interfaces.Services;
-using ApiCatalog.Core.Models;
 using ApiCatalog.Pagination;
 using ApiCatalog.Persistence.Repository;
 using ApiCatalog.ResponseBuilder;
@@ -13,7 +8,6 @@ using ApiCatalog.Utils;
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ApiCatalog.Controllers
 {

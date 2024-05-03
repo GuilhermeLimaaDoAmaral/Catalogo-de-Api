@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj": {}
+    "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj": {
+    "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj",
+        "projectUniqueName": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj",
         "projectName": "ApiCatalog.Core",
-        "projectPath": "D:\\Estudos\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj",
+        "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj",
         "packagesPath": "C:\\Users\\GuilhermeAmaral\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\MyAPI\\Api.Catalog\\obj\\",
+        "outputPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GuilhermeAmaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj": {
-                "projectPath": "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj"
+              "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj": {
+                "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj": {
+    "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj",
+        "projectUniqueName": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj",
         "projectName": "ApiCatalog.Utils",
-        "projectPath": "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj",
+        "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\ApiCatalog.Utils.csproj",
         "packagesPath": "C:\\Users\\GuilhermeAmaral\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\MyAPI\\ApiCatalog.Utils\\obj\\",
+        "outputPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatalog.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GuilhermeAmaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
+    "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj",
+        "projectUniqueName": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj",
         "projectName": "ApiCatalog.Persistence",
-        "projectPath": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj",
+        "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj",
         "packagesPath": "C:\\Users\\GuilhermeAmaral\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\obj\\",
+        "outputPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GuilhermeAmaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +158,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Estudos\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj": {
-                "projectPath": "D:\\Estudos\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj"
+              "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj": {
+                "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\ApiCatalog.Core.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj": {
+    "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj",
+        "projectUniqueName": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj",
         "projectName": "ApiCatalog",
-        "projectPath": "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj",
+        "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj",
         "packagesPath": "C:\\Users\\GuilhermeAmaral\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\MyAPI\\MyApi\\obj\\",
+        "outputPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GuilhermeAmaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
-                "projectPath": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj"
+              "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
+                "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj"
               }
             }
           }

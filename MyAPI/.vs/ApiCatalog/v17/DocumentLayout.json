@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Estudos\\MyAPI\\",
+  "WorkspaceRootPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|d:\\estudos\\myapi\\myapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|solutionrelative:myapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|d:\\api\\catalogo-de-api\\myapi\\apicatlog.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|solutionrelative:apicatlog.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\pagination\\productparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\pagination\\productparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|d:\\estudos\\myapi\\apicatlog.persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|solutionrelative:apicatlog.persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|d:\\estudos\\myapi\\apicatlog.persistence\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|solutionrelative:apicatlog.persistence\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|d:\\estudos\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\estudos\\myapi\\api.catalog\\dtos\\automapper\\productdtoautomappingextensionscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|d:\\api\\catalogo-de-api\\myapi\\myapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|solutionrelative:myapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\pagination\\productparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\pagination\\productparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|d:\\api\\catalogo-de-api\\myapi\\apicatlog.persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|solutionrelative:apicatlog.persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|d:\\api\\catalogo-de-api\\myapi\\apicatlog.persistence\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}|ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj|solutionrelative:apicatlog.persistence\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|d:\\api\\catalogo-de-api\\myapi\\myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128AE60B-1A4C-482A-8E70-BEA16C86ADE6}|MyApi\\ApiCatalog.csproj|solutionrelative:myapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\dtos\\response\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|d:\\api\\catalogo-de-api\\myapi\\api.catalog\\dtos\\automapper\\productdtoautomappingextensionscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BF7FBC-7D08-43C4-9551-FAC4EB52BDE1}|Api.Catalog\\ApiCatalog.Core.csproj|solutionrelative:api.catalog\\dtos\\automapper\\productdtoautomappingextensionscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,31 +77,27 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAA5AAAA",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiCatlog.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiCatlog.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T19:20:35.624Z",
+              "WhenOpened": "2024-05-03T20:37:31.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\MyApi\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MyApi\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\MyApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "MyApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAuwLcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:14:25.799Z",
               "EditorCaption": ""
@@ -105,132 +105,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:44:19.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ProductParameters.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Pagination\\ProductParameters.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Pagination\\ProductParameters.cs",
               "RelativeDocumentMoniker": "Api.Catalog\\Pagination\\ProductParameters.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Pagination\\ProductParameters.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Pagination\\ProductParameters.cs",
               "RelativeToolTip": "Api.Catalog\\Pagination\\ProductParameters.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T19:22:31.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T19:20:38.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T19:22:31.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductResponseDTO.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
-              "RelativeDocumentMoniker": "Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
-              "RelativeToolTip": "Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Api.Catalog\\Interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:31:39.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Program.cs",
-              "RelativeDocumentMoniker": "Api.Catalog\\Program.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Program.cs",
-              "RelativeToolTip": "Api.Catalog\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:29:37.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T19:20:38.94Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Entities\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Api.Catalog\\Entities\\EntityBase.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Entities\\EntityBase.cs",
-              "RelativeToolTip": "Api.Catalog\\Entities\\EntityBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
+              "RelativeToolTip": "Api.Catalog\\DTOs\\Response\\ProductResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T18:29:28.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T18:31:39.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Api.Catalog\\Program.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Program.cs",
+              "RelativeToolTip": "Api.Catalog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:29:37.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Api.Catalog\\Entities\\EntityBase.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Api.Catalog\\Entities\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:29:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Interfaces\\Services\\IProductService.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Interfaces\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Api.Catalog\\Interfaces\\Services\\IProductService.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Interfaces\\Services\\IProductService.cs",
               "RelativeToolTip": "Api.Catalog\\Interfaces\\Services\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T18:07:07.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\Services\\ProductService.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Api.Catalog\\Services\\ProductService.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\Services\\ProductService.cs",
               "RelativeToolTip": "Api.Catalog\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-03T18:02:38.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\MyApi\\Program.cs",
-              "RelativeDocumentMoniker": "MyApi\\Program.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\MyApi\\Program.cs",
-              "RelativeToolTip": "MyApi\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwC8AAABHAAAA",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "ApiCatlog.Persistence\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:55:41.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T17:44:19.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ApiCatlog.Persistence\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T19:20:35.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyApi\\Program.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\Program.cs",
+              "RelativeToolTip": "MyApi\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwC8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:55:41.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProductDTOAutoMappingExtensionscs.cs",
-              "DocumentMoniker": "D:\\Estudos\\MyAPI\\Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
+              "DocumentMoniker": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
               "RelativeDocumentMoniker": "Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
-              "ToolTip": "D:\\Estudos\\MyAPI\\Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
+              "ToolTip": "D:\\Api\\Catalogo-de-Api\\MyAPI\\Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
               "RelativeToolTip": "Api.Catalog\\DTOs\\Automapper\\ProductDTOAutoMappingExtensionscs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T17:49:55.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T17:49:55.752Z"
             }
           ]
         }

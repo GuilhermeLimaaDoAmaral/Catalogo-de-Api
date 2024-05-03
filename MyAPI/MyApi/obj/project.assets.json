@@ -3327,11 +3327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj",
+      "projectUniqueName": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj",
       "projectName": "ApiCatalog",
-      "projectPath": "D:\\Estudos\\MyAPI\\MyApi\\ApiCatalog.csproj",
+      "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\ApiCatalog.csproj",
       "packagesPath": "C:\\Users\\GuilhermeAmaral\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\MyAPI\\MyApi\\obj\\",
+      "outputPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\MyApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GuilhermeAmaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3348,8 +3348,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
-              "projectPath": "D:\\Estudos\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj"
+            "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj": {
+              "projectPath": "D:\\Api\\Catalogo-de-Api\\MyAPI\\ApiCatlog.Persistence\\ApiCatalog.Persistence.csproj"
             }
           }
         }
