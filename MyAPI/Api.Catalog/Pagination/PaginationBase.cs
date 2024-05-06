@@ -1,6 +1,14 @@
-﻿namespace ApiCatalog.Pagination
+﻿using ApiCatalog.Core.Entities;
+using ApiCatalog.Core.Pagination.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ApiCatalog.Core.Pagination
 {
-    public class ProductParameters
+    public class PaginationBase<T> : IPaginationBase<T> where T : EntityBase
     {
         const int maxPageSize = 50;
 

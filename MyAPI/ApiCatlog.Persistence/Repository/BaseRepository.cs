@@ -1,12 +1,7 @@
 ﻿using ApiCatalog.Core.Entities;
-using ApiCatalog.Core.Interfaces;
+using ApiCatalog.Core.Interfaces.Repository;
+using ApiCatalog.Core.Pagination;
 using ApiCatalog.Persistence.Context;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ApiCatalog.Persistence.Repository
 {
@@ -49,5 +44,10 @@ namespace ApiCatalog.Persistence.Repository
             }
         }
 
+        public PagedListBase<T> GetAllPagination(PaginationBase<T> paginationBase)
+        {
+            var obj = _applicationDbContext.Set<T>().OrderBy(x => x.Id).AsQueryable();
+            return PagedListBase<T>.ToPagedList(obj, paginationBase.PageNumber, paginationBase.PageSize);
+        }
     }
 }

@@ -1,13 +1,14 @@
 ﻿using ApiCatalog.Core.DTOs.Request;
 using ApiCatalog.Core.DTOs.Response;
 using ApiCatalog.Core.Entities;
-using ApiCatalog.Pagination;
-using ApiCatalog.Persistence.Repository;
+using ApiCatalog.Core.Interfaces.Repository;
+using ApiCatalog.Core.Pagination;
 using ApiCatalog.ResponseBuilder;
 using ApiCatalog.Utils;
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace ApiCatalog.Controllers
 {
@@ -86,12 +87,24 @@ namespace ApiCatalog.Controllers
 
         [HttpGet("pagination")]
         public ActionResult<IEnumerable<ProductResponseDTO>> Get([FromQuery]
-                                                                ProductParameters productParameters)
+                                                                PaginationBase<Product> PaginationProduct)
         {
-            var products = _unitOfWork.ProductRepository.GetProducts(productParameters);
+            var products = _unitOfWork.ProductRepository.GetAllPagination(PaginationProduct);
 
             if (products != null && products.Any())
             {
+                var metaData = new
+                {
+                    products.TotalCount,
+                    products.PageSize,
+                    products.CurrentPage,
+                    products.TotalPage,
+                    products.HasNext,
+                    products.HasPrevious,
+                };
+
+                Response.Headers.Append("X-Pagination", JsonConvert.SerializeObject(metaData));
+
 
                 return Ok(new ResponseModelBuilder().WithMessage("Busca pelos produtos realizada com sucesso")
                                                .WithSuccess(true)
@@ -107,6 +120,7 @@ namespace ApiCatalog.Controllers
                                                        .Build());
             }
         }
+
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromForm] ProductRequestDTO productDTO)
         {
