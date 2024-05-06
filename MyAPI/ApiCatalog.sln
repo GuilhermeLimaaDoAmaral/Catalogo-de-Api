@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalog.Core", "Api.Cata
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalog.Persistence", "ApiCatlog.Persistence\ApiCatalog.Persistence.csproj", "{5BFF0791-6DEE-4BDE-A66E-5B6F38D82C3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCatalog.Utils", "ApiCatalog.Utils\ApiCatalog.Utils.csproj", "{A1242556-A512-475A-B872-789E719AF3C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalog.Utils", "ApiCatalog.Utils\ApiCatalog.Utils.csproj", "{A1242556-A512-475A-B872-789E719AF3C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B3714FB-502C-4F66-BABD-8A2B1A847E1F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore.txt = .gitignore.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
